@@ -4,12 +4,15 @@
   "description": "Static Site with Node & Express",
   "main": "index.js",
   "scripts": {
-    "start": "node app",
-    "dev": "nodemon app"
+    "start": "node appExpress",
+    "dev": "nodemon appExpress"
   },
   "author": "George Lopez",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }

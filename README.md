@@ -18,12 +18,12 @@ features: threejs background, dom manipulation, and icons.
    OR Run 'npm dev' to workshop project with nodemon at: localhost: 3000
 
 ### Techniques implemented
--Node.js
--npm
--middleware
--errorhandling
+- Node.js
+- npm
+- middleware
+- errorhandling
+- express.js
 
-### Techniques which need to be implemented
-- [x] express.js
-- [x] pug template engine
-- [x] custom css for errorhandling
+### NOTE
+
+appNode.js is left in directory for reference purposes only
