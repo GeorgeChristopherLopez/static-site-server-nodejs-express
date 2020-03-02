@@ -17,13 +17,12 @@ features: threejs background, dom manipulation, and icons.
 5. Run 'npm start' to view project in your browser at: localhost: 3000
    OR Run 'npm dev' to workshop project with nodemon at: localhost: 3000
 
-### Techniques implemented
--Node.js
--npm
--middleware
--errorhandling
+### Techniques Implemented
+- [x] Node.js
+- [x] npm
+- [x] middleware
+- [x] errorhandling
+- [ ] express.js
+- [ ] pug template engine
+- [ ] custom css for errorhandling
 
-### Techniques which need to be implemented
-- [x] express.js
-- [x] pug template engine
-- [x] custom css for errorhandling
